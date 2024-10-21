@@ -1,0 +1,14 @@
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore build artifacts from dotnet
+*.log
+*.ide
+*.sln
